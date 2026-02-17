@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6284343-f6cb-488a-89cd-1955c0cf63c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/violet/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.1.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.1.0/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.1.0/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.1.0/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.1.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.1.0/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.1.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.1.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.1.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.1.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/config.properties" afterDir="false" />
+    <list default="true" id="b6284343-f6cb-488a-89cd-1955c0cf63c7" name="Changes" comment="made changes to square">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/violet/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/violet/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,15 +165,36 @@
       <option name="presentableId" value="Default" />
       <updated>1771327705429</updated>
     </task>
+    <task id="LOCAL-00001" summary="made changes to square">
+      <option name="closed" value="true" />
+      <created>1771328224581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771328224582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="made changes to square">
+      <option name="closed" value="true" />
+      <created>1771328372912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771328372912</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made changes to square" />
+    <option name="LAST_COMMIT_MESSAGE" value="made changes to square" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/violet/Shape.java</url>
-          <line>6</line>
-          <properties class="com.example.violet.Circle" method="&lt;init&gt;">
+          <line>7</line>
+          <properties class="com.example.violet.Shape" method="&lt;init&gt;">
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
