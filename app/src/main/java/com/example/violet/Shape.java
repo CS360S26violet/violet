@@ -10,3 +10,5 @@ public abstract class Shape {
     }
     protected String color = "red";
 }
+    protected String color = "magenta";
+}
